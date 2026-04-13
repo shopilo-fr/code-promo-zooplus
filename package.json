@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-zooplus",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Zooplus depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-zooplus",
+    "bon-de-reduction-zooplus",
+    "coupon-zooplus",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/zooplus.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-zooplus.git"
+  }
+}
